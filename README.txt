@@ -69,3 +69,16 @@ display a simple bar-graph visualization. Follow the steps here
 (https://obsproject.com/forum/resources/spectralizer.861/) to download
 and install; set the browser source as the audio input to send sound
 to the spectralizer.
+
+DISCLAIMER
+----------
+I do not own, operate, and am not affiliated with Francis Tseng, the
+creator of the ScanMap utility, or Broadcastify.com. My release of my
+code is not to be taken as a guarantee that these third-party utilities will
+to function as expected, nor that the copyright owners for those works
+have given consent for the appearance of their works in this code. Your use
+of this code is entirely at your own risk, and at some point when I've slept,
+I'll upload a real disclaimer and Creative Commons license, but I feel strongly
+about the importance of providing accessibility to this kind of tool for
+organizers on the ground on an urgent and immediate basis, and am making it
+available in good faith.
